@@ -1,6 +1,6 @@
-### o
+### Altcoin
 ---
-
+https://github.com/LIMXTEC
 
 ```
 ```
